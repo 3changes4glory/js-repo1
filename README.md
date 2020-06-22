@@ -1,2 +1,2 @@
 # js-repo1
-Js Repo
+JavaScript Repo
